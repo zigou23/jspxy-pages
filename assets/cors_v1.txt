@@ -4,8 +4,8 @@
 # google
 ssl.google-analytics.com
 
-# [public]
-cdn.jsdelivr.net
+# [public] cdn.jsdelivr.net
+
 unpkg.com
 cdnjs.cloudflare.com
 cdn.bootcss.com
